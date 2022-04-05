@@ -307,7 +307,7 @@ nav a:hover {
   padding-bottom: 60px !important;
   padding-left: 25px !important;
   padding-right: 25px !important;
-  background-color: hwb(0 0% 100% / 0.548) !important;
+   background-color: rgba(0, 0, 0, 0.461) !important;
 }
 .old-price {
   text-decoration: line-through;

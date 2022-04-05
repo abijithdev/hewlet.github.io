@@ -256,7 +256,7 @@ nav a:hover {
 }
 .sec-1 {
   display: flex;
-  gap: 30px;
+  gap: 75px;
   align-items: center;
   justify-content: center;
 }
@@ -294,7 +294,7 @@ nav a:hover {
 }
 .sec-2 {
   display: flex;
-  gap: 30px;
+  gap: 38px;
   align-items: center;
   justify-content: center;
   margin-bottom: 50px;
